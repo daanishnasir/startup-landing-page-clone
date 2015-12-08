@@ -14,6 +14,14 @@ div {
 	/*border: 1px solid Chocolate;*/
 }
 
+
+.wrapper {
+	margin-left:auto;
+	margin-right:auto;
+	width:960px;
+}
+
+
 .top-navigation{
 	background-color: #FFF;
 	position:fixed;
@@ -161,8 +169,8 @@ button{
 
 
 hr {
-	 display: block;
-    margin-top: 0.5em;
+	display: block;
+    margin-top: 6.5em;
     margin-bottom: 0.5em;
     margin-left: auto;
     margin-right: auto;
